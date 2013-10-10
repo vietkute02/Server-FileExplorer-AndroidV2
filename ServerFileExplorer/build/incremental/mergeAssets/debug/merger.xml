@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="ServerFileExplorerProjectActionbarsherlockUnspecified.aar" >
+        <source path="/Users/vietanha34/Documents/workspace/workspace/ServerFileExplorerProject/ServerFileExplorer/build/exploded-bundles/ServerFileExplorerProjectActionbarsherlockUnspecified.aar/assets" />
+    </dataSet>
+    <dataSet config="ServerFileExplorerProjectViewPagerIndicatorUnspecified.aar" >
+        <source path="/Users/vietanha34/Documents/workspace/workspace/ServerFileExplorerProject/ServerFileExplorer/build/exploded-bundles/ServerFileExplorerProjectViewPagerIndicatorUnspecified.aar/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/vietanha34/Documents/workspace/workspace/ServerFileExplorerProject/ServerFileExplorer/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/vietanha34/Documents/workspace/workspace/ServerFileExplorerProject/ServerFileExplorer/src/debug/assets" />
+    </dataSet>
+
+</merger>
